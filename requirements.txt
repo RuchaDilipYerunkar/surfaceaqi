@@ -1,0 +1,17 @@
+# Geospatial & Satellite Data Processing
+xarray
+netCDF4
+rasterio
+geopandas
+rioxarray
+shapely
+
+# Data Analysis & Machine Learning
+numpy
+pandas
+scikit-learn
+pyyaml
+
+# Visualization
+matplotlib
+seaborn
